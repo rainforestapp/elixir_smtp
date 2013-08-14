@@ -1,0 +1,2 @@
+[ "gen_smtp": {:git, "git://github.com/Vagabond/gen_smtp.git", "2d75ba1ae5484443c1aae38aec6343f9b6e24870", []},
+  "gen_smtp_client": {:git, "git://github.com/Vagabond/gen_smtp.git", "2d75ba1ae5484443c1aae38aec6343f9b6e24870", []} ]
