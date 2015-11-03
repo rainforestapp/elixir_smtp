@@ -15,6 +15,6 @@ defmodule ElixirSmtp.Mixfile do
 
   # Returns the list of dependencies in the format:
   defp deps do
-    [{:gen_smtp, github: "Vagabond/gen_smtp", compile: "rebar compile"}]
+    [{:gen_smtp, "~> 0.9.0"}]
   end
 end
